@@ -1,12 +1,13 @@
 package ro.cts.registry;
 
 import java.util.Date;
+import java.util.HashMap;
 import java.util.Map;
 
 public class Autoritate {
     private String nume;
     private String website;
-    private Map<String, Reglementare> map = null;
+    private Map<String, Reglementare> map = new HashMap<>();
     private static Autoritate  instance= null;
 
     private Autoritate(String nume, String website) {
