@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test1/Exersare_test1.iml" filepath="$PROJECT_DIR$/Exersare_test1/Exersare_test1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
@@ -11,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5_FactoryMethode/Seminar5_FactoryMethode.iml" filepath="$PROJECT_DIR$/Seminar5_FactoryMethode/Seminar5_FactoryMethode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5_model2_Builder/Seminar5_model2_Builder.iml" filepath="$PROJECT_DIR$/Seminar5_model2_Builder/Seminar5_model2_Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/SeminarCTS.iml" filepath="$PROJECT_DIR$/SeminarCTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test1/probleme_builder1_A1/probleme_builder1_A1.iml" filepath="$PROJECT_DIR$/Exersare_test1/probleme_builder1_A1/probleme_builder1_A1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test1/probleme_simple_factory_A2/probleme_simple_factory_A2.iml" filepath="$PROJECT_DIR$/Exersare_test1/probleme_simple_factory_A2/probleme_simple_factory_A2.iml" />
     </modules>
   </component>
 </project>
