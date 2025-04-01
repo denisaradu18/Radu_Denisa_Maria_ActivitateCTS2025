@@ -14,8 +14,10 @@
       <module fileurl="file://$PROJECT_DIR$/SeminarCTS.iml" filepath="$PROJECT_DIR$/SeminarCTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/builder1_A1/builder1_A1.iml" filepath="$PROJECT_DIR$/Exersare_test1/builder1_A1/builder1_A1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/factory_method_A3/factory_method_A3.iml" filepath="$PROJECT_DIR$/Exersare_test1/factory_method_A3/factory_method_A3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test1/factory_method_C2/factory_method_C2.iml" filepath="$PROJECT_DIR$/Exersare_test1/factory_method_C2/factory_method_C2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/prototype_A4/prototype_A4.iml" filepath="$PROJECT_DIR$/Exersare_test1/prototype_A4/prototype_A4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/simple_factory_A2/simple_factory_A2.iml" filepath="$PROJECT_DIR$/Exersare_test1/simple_factory_A2/simple_factory_A2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test1/simple_factory_C1/simple_factory_C1.iml" filepath="$PROJECT_DIR$/Exersare_test1/simple_factory_C1/simple_factory_C1.iml" />
     </modules>
   </component>
 </project>
