@@ -24,3 +24,4 @@ public class FactoryDesert implements AbstractFactory{
         }
     }
 }
+//statci block cu tratarea de exceptii
