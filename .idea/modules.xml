@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test1/Builder_stb/Builder_stb.iml" filepath="$PROJECT_DIR$/Exersare_test1/Builder_stb/Builder_stb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test1/Bulder/Bulder.iml" filepath="$PROJECT_DIR$/Exersare_test1/Bulder/Bulder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test1/CalitateAer/CalitateAer.iml" filepath="$PROJECT_DIR$/Exersare_test1/CalitateAer/CalitateAer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/Exersare_test1.iml" filepath="$PROJECT_DIR$/Exersare_test1/Exersare_test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test1/Factory_methode_metodaSeminar/Factory_methode_metodaSeminar.iml" filepath="$PROJECT_DIR$/Exersare_test1/Factory_methode_metodaSeminar/Factory_methode_metodaSeminar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test1/Prototype_C4/Prototype_C4.iml" filepath="$PROJECT_DIR$/Exersare_test1/Prototype_C4/Prototype_C4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
@@ -13,14 +18,25 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5_model2_Builder/Seminar5_model2_Builder.iml" filepath="$PROJECT_DIR$/Seminar5_model2_Builder/Seminar5_model2_Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/Seminar6.iml" filepath="$PROJECT_DIR$/Seminar6/Seminar6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6_Adapter_de_clase/Seminar6_Adapter_de_clase.iml" filepath="$PROJECT_DIR$/Seminar6_Adapter_de_clase/Seminar6_Adapter_de_clase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8/Seminar8.iml" filepath="$PROJECT_DIR$/Seminar8/Seminar8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8_decorator/Seminar8_decorator.iml" filepath="$PROJECT_DIR$/Seminar8_decorator/Seminar8_decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8_proxy/Seminar8_proxy.iml" filepath="$PROJECT_DIR$/Seminar8_proxy/Seminar8_proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/SeminarCTS.iml" filepath="$PROJECT_DIR$/SeminarCTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Exersare_test1/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test1/buider_C3/buider_C3.iml" filepath="$PROJECT_DIR$/Exersare_test1/buider_C3/buider_C3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/builder1_A1/builder1_A1.iml" filepath="$PROJECT_DIR$/Exersare_test1/builder1_A1/builder1_A1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test1/builder_D3/builder_D3.iml" filepath="$PROJECT_DIR$/Exersare_test1/builder_D3/builder_D3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test1/factory_D1/factory_D1.iml" filepath="$PROJECT_DIR$/Exersare_test1/factory_D1/factory_D1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/factory_method_A3/factory_method_A3.iml" filepath="$PROJECT_DIR$/Exersare_test1/factory_method_A3/factory_method_A3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/factory_method_C2/factory_method_C2.iml" filepath="$PROJECT_DIR$/Exersare_test1/factory_method_C2/factory_method_C2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test1/factory_methode_D2/factory_methode_D2.iml" filepath="$PROJECT_DIR$/Exersare_test1/factory_methode_D2/factory_methode_D2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test1/magazinB/magazinB.iml" filepath="$PROJECT_DIR$/Exersare_test1/magazinB/magazinB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/prototype_A4/prototype_A4.iml" filepath="$PROJECT_DIR$/Exersare_test1/prototype_A4/prototype_A4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test1/prototype_D4/prototype_D4.iml" filepath="$PROJECT_DIR$/Exersare_test1/prototype_D4/prototype_D4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test1/prototype_stb/prototype_stb.iml" filepath="$PROJECT_DIR$/Exersare_test1/prototype_stb/prototype_stb.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/simple_factory_A2/simple_factory_A2.iml" filepath="$PROJECT_DIR$/Exersare_test1/simple_factory_A2/simple_factory_A2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/simple_factory_C1/simple_factory_C1.iml" filepath="$PROJECT_DIR$/Exersare_test1/simple_factory_C1/simple_factory_C1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test1/stb_factory/stb_factory.iml" filepath="$PROJECT_DIR$/Exersare_test1/stb_factory/stb_factory.iml" />
     </modules>
   </component>
 </project>

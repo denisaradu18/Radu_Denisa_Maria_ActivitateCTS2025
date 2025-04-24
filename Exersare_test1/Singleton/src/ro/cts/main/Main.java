@@ -1,9 +1,6 @@
 package ro.cts.main;
 
-import ro.cts.classes.AgentieEager;
-import ro.cts.classes.AgentieLazy;
-import ro.cts.classes.AgentieSerialization;
-import ro.cts.classes.AgentieStaticBlock;
+import ro.cts.classes.*;
 
 public class Main {
     public static void main(String[] args)  {
@@ -27,5 +24,8 @@ public class Main {
 
         AgentieSerialization agentieSerialization=AgentieSerialization.getInstance("AgentieNoua", 100,2);
         System.out.println(agentieSerialization);
+
+        CameraSingletone cameraSingletone=CameraSingletone.getInstance(235,3);
+        System.out.println(cameraSingletone);
     }
 }
