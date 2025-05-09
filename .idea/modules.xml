@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/Structurale/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Exersare_test2/Structurale/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/Builder_stb/Builder_stb.iml" filepath="$PROJECT_DIR$/Exersare_test1/Builder_stb/Builder_stb.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/Bulder/Bulder.iml" filepath="$PROJECT_DIR$/Exersare_test1/Bulder/Bulder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/CalitateAer/CalitateAer.iml" filepath="$PROJECT_DIR$/Exersare_test1/CalitateAer/CalitateAer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/Exersare_test1.iml" filepath="$PROJECT_DIR$/Exersare_test1/Exersare_test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/Exersare_test2.iml" filepath="$PROJECT_DIR$/Exersare_test2/Exersare_test2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/Factory_methode_metodaSeminar/Factory_methode_metodaSeminar.iml" filepath="$PROJECT_DIR$/Exersare_test1/Factory_methode_metodaSeminar/Factory_methode_metodaSeminar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/Prototype_C4/Prototype_C4.iml" filepath="$PROJECT_DIR$/Exersare_test1/Prototype_C4/Prototype_C4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10_Flyweight/Seminar10_Flyweight.iml" filepath="$PROJECT_DIR$/Seminar10_Flyweight/Seminar10_Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10_composite/Seminar10_composite.iml" filepath="$PROJECT_DIR$/Seminar10_composite/Seminar10_composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10_template/Seminar10_template.iml" filepath="$PROJECT_DIR$/Seminar10_template/Seminar10_template.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
@@ -23,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar8_proxy/Seminar8_proxy.iml" filepath="$PROJECT_DIR$/Seminar8_proxy/Seminar8_proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/SeminarCTS.iml" filepath="$PROJECT_DIR$/SeminarCTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Exersare_test1/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/Structurale/Structurale.iml" filepath="$PROJECT_DIR$/Exersare_test2/Structurale/Structurale.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/buider_C3/buider_C3.iml" filepath="$PROJECT_DIR$/Exersare_test1/buider_C3/buider_C3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/builder1_A1/builder1_A1.iml" filepath="$PROJECT_DIR$/Exersare_test1/builder1_A1/builder1_A1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/builder_D3/builder_D3.iml" filepath="$PROJECT_DIR$/Exersare_test1/builder_D3/builder_D3.iml" />
