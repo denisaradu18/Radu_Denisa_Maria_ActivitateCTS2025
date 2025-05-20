@@ -15,6 +15,7 @@ public class Main {
         Nota notaDecorataCraciun=new NotaDePlataCraciun(notaDePlata);
         Nota nota2=new NotaDePlataCraciun(notaDecorata);
         nota2.printare();
+        notaDecorataCraciun.printare();
     }
 
 }

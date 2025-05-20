@@ -10,7 +10,7 @@ public abstract class PrinterFelicitare  implements Nota {
 
     @Override
     public void printare() {
-
+        notaPlata.printare();
         printareFelicitare();
     }
 

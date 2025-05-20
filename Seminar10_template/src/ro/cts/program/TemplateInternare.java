@@ -9,7 +9,7 @@ public abstract class TemplateInternare {
             verificareDisponibilitate();
             emiteFisa(pacient);
         }
-    }
+   }
 
     abstract int anlalizaPacient(Pacient pacient);
     abstract  void verificareDisponibilitate();
