@@ -2,24 +2,41 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/A10_Flyweight/A10_Flyweight.iml" filepath="$PROJECT_DIR$/Exersare_test2/A10_Flyweight/A10_Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/A12_Observer/A12_Observer.iml" filepath="$PROJECT_DIR$/Exersare_test2/A12_Observer/A12_Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test2/A6_Facade/A6_Facade.iml" filepath="$PROJECT_DIR$/Exersare_test2/A6_Facade/A6_Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test2/A7_Decorator/A7_Decorator.iml" filepath="$PROJECT_DIR$/Exersare_test2/A7_Decorator/A7_Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test2/Structurale/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Exersare_test2/Structurale/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/B10_Flyweight/B10_Flyweight.iml" filepath="$PROJECT_DIR$/Exersare_test2/B10_Flyweight/B10_Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/B12_Observer/B12_Observer.iml" filepath="$PROJECT_DIR$/Exersare_test2/B12_Observer/B12_Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test2/B14_Template/B14_Template.iml" filepath="$PROJECT_DIR$/Exersare_test2/B14_Template/B14_Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/B16_Chain_of_responsability/B16_Chain_of_responsability.iml" filepath="$PROJECT_DIR$/Exersare_test2/B16_Chain_of_responsability/B16_Chain_of_responsability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/B5_Adapter_obiecte/B5_Adapter_obiecte.iml" filepath="$PROJECT_DIR$/Exersare_test2/B5_Adapter_obiecte/B5_Adapter_obiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test2/B6_Facade/B6_Facade.iml" filepath="$PROJECT_DIR$/Exersare_test2/B6_Facade/B6_Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/Builder_stb/Builder_stb.iml" filepath="$PROJECT_DIR$/Exersare_test1/Builder_stb/Builder_stb.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/Bulder/Bulder.iml" filepath="$PROJECT_DIR$/Exersare_test1/Bulder/Bulder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/C10_Flyweight/C10_Flyweight.iml" filepath="$PROJECT_DIR$/Exersare_test2/C10_Flyweight/C10_Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/C11_Strategy/C11_Strategy.iml" filepath="$PROJECT_DIR$/Exersare_test2/C11_Strategy/C11_Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test2/C14_Template/C14_Template.iml" filepath="$PROJECT_DIR$/Exersare_test2/C14_Template/C14_Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/C15_Chain_of_responsability/C15_Chain_of_responsability.iml" filepath="$PROJECT_DIR$/Exersare_test2/C15_Chain_of_responsability/C15_Chain_of_responsability.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test2/C6_Facade/C6_Facade.iml" filepath="$PROJECT_DIR$/Exersare_test2/C6_Facade/C6_Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test2/C7_Decorator/C7_Decorator.iml" filepath="$PROJECT_DIR$/Exersare_test2/C7_Decorator/C7_Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test2/C8_Composite/C8_Composite.iml" filepath="$PROJECT_DIR$/Exersare_test2/C8_Composite/C8_Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test2/C8_Proxy/C8_Proxy.iml" filepath="$PROJECT_DIR$/Exersare_test2/C8_Proxy/C8_Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/CalitateAer/CalitateAer.iml" filepath="$PROJECT_DIR$/Exersare_test1/CalitateAer/CalitateAer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/Chain_fitness/Chain_fitness.iml" filepath="$PROJECT_DIR$/Exersare_test2/Chain_fitness/Chain_fitness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/D10_Flyweight/D10_Flyweight.iml" filepath="$PROJECT_DIR$/Exersare_test2/D10_Flyweight/D10_Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/D11_Strategy/D11_Strategy.iml" filepath="$PROJECT_DIR$/Exersare_test2/D11_Strategy/D11_Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/D12_Observer/D12_Observer.iml" filepath="$PROJECT_DIR$/Exersare_test2/D12_Observer/D12_Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test2/D14_Template/D14_Template.iml" filepath="$PROJECT_DIR$/Exersare_test2/D14_Template/D14_Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/D16_Chain_of_responsability/D16_Chain_of_responsability.iml" filepath="$PROJECT_DIR$/Exersare_test2/D16_Chain_of_responsability/D16_Chain_of_responsability.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test2/D6_Decorator/D6_Decorator.iml" filepath="$PROJECT_DIR$/Exersare_test2/D6_Decorator/D6_Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test2/D7_Facade/D7_Facade.iml" filepath="$PROJECT_DIR$/Exersare_test2/D7_Facade/D7_Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test2/D8_Proxy/D8_Proxy.iml" filepath="$PROJECT_DIR$/Exersare_test2/D8_Proxy/D8_Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test2/D9_Composite/D9_Composite.iml" filepath="$PROJECT_DIR$/Exersare_test2/D9_Composite/D9_Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/E10_Flyweight/E10_Flyweight.iml" filepath="$PROJECT_DIR$/Exersare_test2/E10_Flyweight/E10_Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/E11_Strategy/E11_Strategy.iml" filepath="$PROJECT_DIR$/Exersare_test2/E11_Strategy/E11_Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/E12_Observer/E12_Observer.iml" filepath="$PROJECT_DIR$/Exersare_test2/E12_Observer/E12_Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test2/E14_Template/E14_Template.iml" filepath="$PROJECT_DIR$/Exersare_test2/E14_Template/E14_Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test2/E7_Decorator/E7_Decorator.iml" filepath="$PROJECT_DIR$/Exersare_test2/E7_Decorator/E7_Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test2/E8_Proxy/E8_Proxy.iml" filepath="$PROJECT_DIR$/Exersare_test2/E8_Proxy/E8_Proxy.iml" />
@@ -56,6 +73,8 @@
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/buider_C3/buider_C3.iml" filepath="$PROJECT_DIR$/Exersare_test1/buider_C3/buider_C3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/builder1_A1/builder1_A1.iml" filepath="$PROJECT_DIR$/Exersare_test1/builder1_A1/builder1_A1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/builder_D3/builder_D3.iml" filepath="$PROJECT_DIR$/Exersare_test1/builder_D3/builder_D3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/composite_streaming/composite_streaming.iml" filepath="$PROJECT_DIR$/Exersare_test2/composite_streaming/composite_streaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/decorator_streaming/decorator_streaming.iml" filepath="$PROJECT_DIR$/Exersare_test2/decorator_streaming/decorator_streaming.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/factory_D1/factory_D1.iml" filepath="$PROJECT_DIR$/Exersare_test1/factory_D1/factory_D1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/factory_method_A3/factory_method_A3.iml" filepath="$PROJECT_DIR$/Exersare_test1/factory_method_A3/factory_method_A3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/factory_method_C2/factory_method_C2.iml" filepath="$PROJECT_DIR$/Exersare_test1/factory_method_C2/factory_method_C2.iml" />
@@ -67,6 +86,7 @@
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/simple_factory_A2/simple_factory_A2.iml" filepath="$PROJECT_DIR$/Exersare_test1/simple_factory_A2/simple_factory_A2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/simple_factory_C1/simple_factory_C1.iml" filepath="$PROJECT_DIR$/Exersare_test1/simple_factory_C1/simple_factory_C1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exersare_test1/stb_factory/stb_factory.iml" filepath="$PROJECT_DIR$/Exersare_test1/stb_factory/stb_factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exersare_test2/strategy_fitness/strategy_fitness.iml" filepath="$PROJECT_DIR$/Exersare_test2/strategy_fitness/strategy_fitness.iml" />
     </modules>
   </component>
 </project>
